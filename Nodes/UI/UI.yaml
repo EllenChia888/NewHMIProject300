@@ -82,13 +82,3 @@ Children:
     DataType: Size
     ModellingRule: Optional
     Value: 400.0
-- Name: Etiqueta1
-  Id: g=2d40d05adb44ab52d34e1ac840afde09
-  Supertype: Label
-  ReferenceType: HasComponent
-  Children:
-  - Name: Text
-    Type: BaseDataVariableType
-    DataType: LocalizedText
-    ModellingRule: Optional
-    Value: {"LocaleId":"es-ES","Text":"Etiqueta1"}
